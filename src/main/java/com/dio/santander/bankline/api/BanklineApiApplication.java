@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class BanklineApiApplication {
 
-//	aqui começa o app
+//	aqui começa o app da API
 	public static void main(String[] args) {
 		SpringApplication.run(BanklineApiApplication.class, args);
 	}
