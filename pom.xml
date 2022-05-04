@@ -8,7 +8,6 @@
 		<version>2.6.7</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	
 	<groupId>com.dio.santander</groupId>
 	<artifactId>bankline-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
